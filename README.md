@@ -16,7 +16,7 @@ Projeto desenvolvido durante o Stage 06 da trilha explorer da Rocketseat.
   <img alt="spa universe" src="https://user-images.githubusercontent.com/101216880/179530356-d32a9030-f19c-48b9-b333-c09a2b22cff5.png" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - JavaScript
 - [Node e NPM](https://nodejs.org/)
 
-## 💻 Projeto
+## Projeto
 
 O SPA Universe é um exemplo de aplicação onde existe o conceito de SPA, onde o menu é fixo mas os dados apresentados serão diferentes de acordo com a opção selecionada, incluindo também uma página de erro quando o caminho não for encontrado.
 
