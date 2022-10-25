@@ -46,8 +46,16 @@ Para rodar o projeto de uma SPA usaremos um pequeno servidor local, para reprodu
 
 1. Clone o repositório em sua máquina
 
-2. Na raiz do projeto, instale o lite-server (Será necessário ter o Node instalado):
-   -npm install lite-server
+2. Na raiz do projeto, instale o lite-server (Será necessário ter o Node instalado):<br>
+
+```bash
+   npm install lite-server
+```
 
 3. Depois de instalado, execute o comando de start:
-   -npm start
+
+```bash
+   npm start
+```
+
+Depois disso o projeto será executado em uma porta local.
