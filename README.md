@@ -7,7 +7,7 @@ Projeto desenvolvido durante o Stage 06 da trilha explorer da Rocketseat.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-publicação">Publicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-publicação">Publicação</a>
 </p>
 
 <br>
