@@ -28,7 +28,7 @@ Projeto desenvolvido durante o Stage 06 da trilha explorer da Rocketseat.
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+  <img alt="spa universe" src="https://user-images.githubusercontent.com/101216880/179530356-d32a9030-f19c-48b9-b333-c09a2b22cff5.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
