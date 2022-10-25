@@ -28,7 +28,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O SPA Universe é um exemplo de aplicação onde existe o conceito de SPA, onde o menu é fixo mas os dados apresentados serão diferentes de acordo com a opção selecionada.
+O SPA Universe é um exemplo de aplicação onde existe o conceito de SPA, onde o menu é fixo mas os dados apresentados serão diferentes de acordo com a opção selecionada, incluindo também uma página de erro quando o caminho não for encontrado.
+
+![ConceitosSPA](https://user-images.githubusercontent.com/101216880/197849337-80271d21-345e-4654-8451-0ee20c1a3c18.gif)
+
 
 Esse projeto se trata de um exercício, não é a forma convencional em que uma aplicação desse tipo seria criada, tem como objetivo exemplificar o comportamento e reproduzir as mudanças da aplicação.
 
